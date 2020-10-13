@@ -1,0 +1,16 @@
+{
+  "name": "jmsa-developer/yii2-replace-accent-behavior",
+  "type": "library",
+  "description": "A behavior for Yii2 framework to work with accent replacement",
+  "keywords": ["behavior","replace","accent"],
+  "homepage": "https://github.com/jmsa-developer",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jeffersson Seijas",
+      "email": "jefferssonseijas@gmail.com",
+      "homepage": "https://github.com/jmsa-developer",
+      "role": "Developer"
+    }
+  ],
+}
